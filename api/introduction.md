@@ -6,13 +6,13 @@ The MediaMarkup api has various endpoints for authentication, adding/updating us
 
 The base url for API connectivity is:
 
-https://api.mediamarkup.com/api/
+[https://api.mediamarkup.com/api/](https://api.mediamarkup.com/api/)
 
 ### API Explorer
 
 The list of API endpoints and manual testing can be done at 
 
-https://api.mediamarkup.com/ap-docs
+[https://www.mediamarkup.com/api-docs](https://www.mediamarkup.com/api-docs)
 
 ### Case Study
 
