@@ -16,6 +16,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Abhishek Yadav | [Website](https://twitter.com/abhishake100) |
 | Shubham Dipak Bhamare | [Website](https://www.facebook.com/TheShubh77) |
 |  Pethuraj M | [Website](https://www.pethuraj.in) |
+| Rupesh Kokare | Website |
 
 \_\_
 
