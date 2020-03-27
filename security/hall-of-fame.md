@@ -15,8 +15,9 @@ The following people have reported valid security bugs and helped us produce a m
 | Prial Islam | [Website](https://prial.me/) |
 | Abhishek Yadav | [Website](https://twitter.com/abhishake100) |
 | Shubham Dipak Bhamare | [Website](https://www.facebook.com/TheShubh77) |
-|  Pethuraj M | [Website](https://www.pethuraj.in) |
-| Rupesh Kokare | Website |
+| Pethuraj M | [Website](https://www.pethuraj.in) |
+| Rupesh Kokare | [Website](https://www.linkedin.com/in/rupesh-kokare-b63a78145) |
+| Pritam Mukherjee | [Website](https://www.linkedin.com/in/pritam-mukherjee-urvil-b75ab9b9) |
 
 \_\_
 
