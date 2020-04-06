@@ -19,6 +19,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Rupesh Kokare | [Website](https://www.linkedin.com/in/rupesh-kokare-b63a78145) |
 | Pritam Mukherjee | [Website](https://www.linkedin.com/in/pritam-mukherjee-urvil-b75ab9b9) |
 | Gourab Sadhukhan | [Website](https://www.linkedin.com/in/gourab-sadhukhan-71158216a/) |
+| Souvik Roy | [Website](https://www.linkedin.com/in/souvikroyofficial) |
 
 \_\_
 
