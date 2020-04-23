@@ -20,6 +20,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Pritam Mukherjee | [Website](https://www.linkedin.com/in/pritam-mukherjee-urvil-b75ab9b9) |
 | Gourab Sadhukhan | [Website](https://www.linkedin.com/in/gourab-sadhukhan-71158216a/) |
 | Souvik Roy | [Website](https://www.linkedin.com/in/souvikroyofficial) |
+| Animesh Mallick | \(no link provided\) |
 
 \_\_
 
