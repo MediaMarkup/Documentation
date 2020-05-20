@@ -21,6 +21,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Gourab Sadhukhan | [Website](https://www.linkedin.com/in/gourab-sadhukhan-71158216a/) |
 | Souvik Roy | [Website](https://www.linkedin.com/in/souvikroyofficial) |
 | Animesh Mallick | \(no link provided\) |
+| Ayushmaan Banerjee | [Website](https://www.linkedin.com/in/amb10) |
 
 \_\_
 
