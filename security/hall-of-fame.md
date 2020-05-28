@@ -22,6 +22,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Souvik Roy | [Website](https://www.linkedin.com/in/souvikroyofficial) |
 | Animesh Mallick | \(no link provided\) |
 | Ayushmaan Banerjee | [Website](https://www.linkedin.com/in/amb10) |
+| Anjali Prakash | [Website](https://www.linkedin.com/in/anjali-p-44ab20133) |
 
 \_\_
 
