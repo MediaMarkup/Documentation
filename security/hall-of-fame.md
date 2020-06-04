@@ -24,6 +24,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Ayushmaan Banerjee | [Website](https://www.linkedin.com/in/amb10) |
 | Anjali Prakash | [Website](https://www.linkedin.com/in/anjali-p-44ab20133) |
 | Subhamoy Guha | [Website](https://www.linkedin.com/in/subhamoy-guha-220048119) |
+| Mihir rai | [Website](https://www.linkedin.com/in/mihir-rai-a35491153) |
 
 \_\_
 
