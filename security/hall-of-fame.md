@@ -25,6 +25,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Anjali Prakash | [Website](https://www.linkedin.com/in/anjali-p-44ab20133) |
 | Subhamoy Guha | [Website](https://www.linkedin.com/in/subhamoy-guha-220048119) |
 | Mihir rai | [Website](https://www.linkedin.com/in/mihir-rai-a35491153) |
+| Ramesh Kumar Sekar | [Website](https://www.linkedin.com/in/ramesh-kumar-sekar-80964b146) |
 
 \_\_
 
