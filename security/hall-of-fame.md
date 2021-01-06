@@ -12,7 +12,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Gaurav Kumar | [Website](https://www.facebook.com/drago4344) |
 | Ashish Rohra | [Website](https://twitter.com/AshishRohra3) |
 | Alwoares From ErrOr SquaD | [Website](https://www.linkedin.com/in/alwoares-naeem-3a470a182) |
-| Prial Islam | [Website](https://prial.me/) |
+| Prial Islam | [Website](https://0xPrial.com) |
 | Abhishek Yadav | [Website](https://twitter.com/abhishake100) |
 | Shubham Dipak Bhamare | [Website](https://www.facebook.com/TheShubh77) |
 | Pethuraj M | [Website](https://www.pethuraj.in) |
