@@ -27,6 +27,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Mihir rai | [Website](https://www.linkedin.com/in/mihir-rai-a35491153) |
 | Ramesh Kumar Sekar | [Website](https://www.linkedin.com/in/ramesh-kumar-sekar-80964b146) |
 | Nandigama Sai Shankar | [Website](https://www.linkedin.com/in/nandigama-sai-shankar-38b562147) |
+| Lohith Kumar MD | [Website](https://www.lohigowda.in) |
 
 \_\_
 
